@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086304963940",
+    "firebase_url": "https://flashchat-bad19.firebaseio.com",
+    "project_id": "flashchat-bad19",
+    "storage_bucket": "flashchat-bad19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086304963940:android:7662cc855c9c3c36bdbe71",
+        "android_client_info": {
+          "package_name": "com.rgxcp.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086304963940-f5kljhl1c4jkbemi5r81m2ovi26740bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArg1eHulwz1HJm7u7KnGJr8Cx3mkwBuwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086304963940-f5kljhl1c4jkbemi5r81m2ovi26740bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
