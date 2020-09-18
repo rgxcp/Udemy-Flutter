@@ -3,6 +3,9 @@
 
 **ID**: Kumpulan aplikasi mobile cross-platform (Andoid dan iOS) menggunakan bahasa Dart dan framework Flutter.
 
+## Status
+END OF LIFE
+
 ## Requirements
 1. Flutter
 2. Android Studio
