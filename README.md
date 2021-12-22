@@ -1,7 +1,5 @@
-# 👩🏻‍⚕️ Dart - Flutter - Belajar
-**EN**: Collection of cross-platform mobile applications (Andoid and iOS) using Dart language and Flutter framework.
-
-**ID**: Kumpulan aplikasi mobile cross-platform (Andoid dan iOS) menggunakan bahasa Dart dan framework Flutter.
+# 👩🏻‍⚕️ Udemy Flutter
+Collection of cross-platform mobile applications (Andoid and iOS) using Dart language and Flutter framework.
 
 ## Status
 END OF LIFE
